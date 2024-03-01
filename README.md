@@ -1,1 +1,1 @@
-# My solutions for JavaScript track from [execrcism.io](https://exercism.org/profiles/milicagolocorbin).
+# My solutions for JavaScript track from [exercism.org](https://exercism.org/profiles/milicagolocorbin/solutions?track_slug=javascript).
